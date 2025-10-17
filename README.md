@@ -9,6 +9,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
+
+
+
+
+
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dgcqvtm2ttx23815jpoliihl6)
 </div>
 
 ###
