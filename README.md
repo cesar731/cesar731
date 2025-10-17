@@ -9,7 +9,7 @@
 ###
 
 <h2 align="left">About me</h2>
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dgcqvtm2ttx23815jpoliihl6&unique={true|1|on|yes})
 ###
 <p ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dgcqvtm2ttx23815jpoliihl6&count={count}) </p>
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
