@@ -14,7 +14,11 @@
 
 ###
 
-<p align="left">✨ Passionate about building efficient and creative software solutions📚 Currently learning advanced backend development and system design 🎯 Goals: Contribute to open-source projects and grow as a full-stack developer 🎲 Fun fact: I debug better with music in the background 🎧 </p>
+<p align="left">✨ Passionate about building efficient and creative software solutions<br>
+📚 Currently learning advanced backend development and system design<br>
+🎯 Goals: Contribute to open-source projects and grow as a full-stack developer<br>
+🎲 Fun fact: I debug better with music in the background 🎧
+ </p>
 
 ###
 
