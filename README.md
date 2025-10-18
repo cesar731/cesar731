@@ -10,7 +10,7 @@
 
 <h2 align="left">About me</h2>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dgcqvtm2ttx23815jpoliihl6)
+
 
 ###
 
@@ -20,6 +20,8 @@
 🎲 Fun fact: I debug better with music in the background 🎧
  </p>
 
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dgcqvtm2ttx23815jpoliihl6)
 ###
 
 <h2 align="left">I code with</h2>
