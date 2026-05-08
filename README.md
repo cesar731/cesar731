@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is cesar and I'm a incredible, from Colombia/Bogota
+<p align="left">My name is cesar, from Colombia/Bogota
 
 </p>
 
